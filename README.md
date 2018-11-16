@@ -1,3 +1,8 @@
+
+Repo créé dans le cadre du premier exercice sur le cours "Développez des applications web avec Angular" sur le site Openclassrooms.
+
+-----------------------------------------------------------------------------------------------------------------------------------
+
 # ProtoBlog
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.2.5.
