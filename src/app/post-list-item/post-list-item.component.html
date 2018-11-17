@@ -10,10 +10,15 @@
   <p>
     {{ post.content }}
   </p>
-  <button class="col-6 col-md-2 btn btn-success" (click)="like()">
-    Love Its
-  </button>
-  <button class="col-6 col-md-2 btn btn-danger" (click)="dislike()">
-    Don't love Its
+  <div class="btn-group col-8 col-md-4" role="group">
+    <button class="btn btn-success" (click)="onLike()">
+      Love Its
+    </button>
+    <button class="btn btn-danger" (click)="onDislike()">
+      Don't love Its
+    </button>
+  </div>
+  <button class="col-3 col-md-2 offset-1 offset-md-6 btn btn-danger" (click)="onRemove()">
+    Supprimer
   </button>
 </li>

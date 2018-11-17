@@ -1,5 +1,5 @@
 
-Repo créé dans le cadre du premier exercice sur le cours "Développez des applications web avec Angular" sur le site Openclassrooms.
+Repo créé dans le cadre du second exercice sur le cours "Développez des applications web avec Angular" sur le site Openclassrooms.
 
 -----------------------------------------------------------------------------------------------------------------------------------
 
